@@ -1,19 +1,21 @@
 # 20190720-JavaSeminar
 
-��4��ڕ׋��� Java�׋��� �Ŏg���\��̃X���C�h�A�\�[�X�Ȃǂ��i�[���Ă��܂��B
+第4回目勉強会 Java勉強会 で使う予定のスライド、ソースなどを格納しています。
 
-# �e�t�@�C���̐���
+# 各ファイルの説明
 
 <pre>
 JavaSeminar.pdf
-�@�@�{�Z�~�i�[�Ŏg���\��̃X���C�h�B
+　　本セミナーで使う予定のスライド。
 </pre>
 
 <pre>
-�N�C�Y�P
-�@�@PrintNumber.java
+クイズ１
+　　Hello.java
+</pre>
 
-�N�C�Y�Q
-�@�@Hello.java
+<pre>
+クイズ２
+　　PrintNumber.java
 </pre>
 
