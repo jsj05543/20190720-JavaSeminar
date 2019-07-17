@@ -4,7 +4,6 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class PrintNumber {
-
     public static void main(String... args) {
         List<Integer> myList = Stream.of(1, 2, 3, 4, 5)
                 .collect(Collectors.toList());
@@ -15,5 +14,4 @@ public class PrintNumber {
 
         myList.forEach(System.out::print);
     }
-
 }
