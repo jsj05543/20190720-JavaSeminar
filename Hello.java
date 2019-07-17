@@ -1,6 +1,6 @@
 public class Hello {
 
-    // 特集処理を行う専用のStringを用意するつもりで
+    // 特殊処理を行う専用のStringを用意したつもりで
     public static class String {
         private java.lang.String str = null;
 
