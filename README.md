@@ -10,12 +10,34 @@ JavaSeminar.pdf
 </pre>
 
 <pre>
-クイズ１
+クイズ１～２
 　　Hello.java
+　　PrintNumber.java
 </pre>
 
 <pre>
-クイズ２
-　　PrintNumber.java
+ハンズオン練習問題
+　　HandsOn01.java
+　　HandsOn02.java
+　　HandsOn03.java
+　　HandsOn04.java
+　　HandsOn05.java
+</pre>
+
+<pre>
+Lambda式入門
+　　Calculator.java 
+　　AddCalculator.java 
+　　SubCalculator.java 
+　　BeforeLambdaReguler.java 
+　　BeforeLambdaInnerClass.java 
+　　AfterLambda.java 
+</pre>
+
+<pre>
+その他
+　　HttpClientTest.java 
+　　LambdaVar.java 
+　　SwitchTest.java 
 </pre>
 
